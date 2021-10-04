@@ -943,7 +943,7 @@ msgstr "Autentificat"
 
 #: CMFPlone/controlpanel/browser/redirects-controlpanel.pt:247
 msgid "Automatically"
-msgstr ""
+msgstr "Automat"
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/configure.zcml:64
 msgid "Automatically generate short URL name for content based on its initial title"
@@ -1052,7 +1052,7 @@ msgstr "Boolean (Adevărat/Fals)"
 
 #: CMFPlone/controlpanel/browser/redirects-controlpanel.pt:245
 msgid "Both"
-msgstr ""
+msgstr "Ambele"
 
 #: CMFPlone/controlpanel/browser/quickinstaller.pt:204
 msgid "Broken add-ons"
@@ -1331,7 +1331,7 @@ msgstr "Comentarii despre ultima tranziție"
 
 #: plone.app.discussion/plone/app/discussion/browser/moderation.py:224
 msgid "Comment already approved."
-msgstr ""
+msgstr "Comentariul a fost deja aprobat."
 
 #: plone.app.discussion/plone/app/discussion/browser/moderation.py:220
 msgid "Comment approved."
@@ -3607,7 +3607,7 @@ msgstr ""
 #: CMFPlone/browser/login/login.py:149
 #: CMFPlone/profiles/default/actions.xml
 msgid "Log in"
-msgstr "Autentificare"
+msgstr "Intra in cont"
 
 #: plone.app.contentrules/plone/app/contentrules/actions/logger.py:69
 msgid "Log message ${message}"
@@ -3656,7 +3656,7 @@ msgstr "Numele de utilizator nu a fost găsit."
 
 #: CMFPlone/interfaces/controlpanel.py:985
 msgid "Login user after password reset"
-msgstr ""
+msgstr "Autentifică utlizatorul după resetarea parolei"
 
 #: CMFPlone/interfaces/controlpanel.py:1388
 msgid "Look for available extensions at https://python-markdown.github.io/extensions/ or write your own."
@@ -7793,7 +7793,7 @@ msgstr ""
 #. Default: "Reset your password"
 #: CMFPlone/browser/login/login_help.py:69
 msgid "button_pwreset_reset_password"
-msgstr ""
+msgstr "Schimbă parola"
 
 #: plone.formwidget.recurrence/plone/formwidget/recurrence/browser/i18n.py:122
 msgid "bysetpos"
@@ -13834,7 +13834,7 @@ msgstr ""
 #. Default: "Password reset successful, you are logged in now!"
 #: CMFPlone/browser/login/password_reset.py:118
 msgid "password_reset_successful"
-msgstr ""
+msgstr "Parola a fost schimbată, acum sunteți autentificat!"
 
 #: plone.formwidget.recurrence/plone/formwidget/recurrence/browser/i18n.py:127
 msgid "past_end_date"
@@ -14189,7 +14189,7 @@ msgstr ""
 #. Default: "You are now logged out."
 #: CMFPlone/browser/login/logout.py:50
 msgid "statusmessage_logged_out"
-msgstr ""
+msgstr "Ai fost deconectat cu succes."
 
 #. Default: "Danger:"
 #: plone.app.layout/plone/app/layout/viewlets/globalstatusmessage.py:27
@@ -15072,7 +15072,7 @@ msgstr "validare eșuată, expresia a fost:$expr"
 #. Default: "Cancel"
 #: plone.app.workflow/plone/app/workflow/browser/sharing.pt:165
 msgid "value label_cancel"
-msgstr ""
+msgstr "Renunță"
 
 #. Default: "Save"
 #: plone.app.workflow/plone/app/workflow/browser/sharing.pt:160
@@ -15207,9 +15207,21 @@ msgstr ""
 #. Default: "Yes"
 #: plone.app.content/plone/app/content/browser/contents/templates/properties.pt:38
 msgid "yes"
-msgstr ""
+msgstr "da"
 
 #. Default: "Welcome! You are now logged in."
 #: CMFPlone/browser/login/login.py:179
 msgid "you_are_now_logged_in"
-msgstr ""
+msgstr "Bine ai venit! Acum ești autentificat."
+
+msgid "heading_reset_password"
+msgstr "Resetare parolă"
+
+msgid "legend_new_password"
+msgstr "Parola nouă"
+
+msgid "help_verify_email"
+msgstr "Introduceți adresa de e-mail pentru verificare."
+
+msgid "Set my password"
+msgstr "Actualizează parola"

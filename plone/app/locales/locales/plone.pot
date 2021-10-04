@@ -14988,3 +14988,15 @@ msgstr ""
 #: CMFPlone/browser/login/login.py:179
 msgid "you_are_now_logged_in"
 msgstr ""
+
+msgid "heading_reset_password"
+msgstr ""
+
+msgid "legend_new_password"
+msgstr ""
+
+msgid "help_verify_email"
+msgstr ""
+
+msgid "Set my password"
+msgstr ""
