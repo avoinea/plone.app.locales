@@ -13494,12 +13494,12 @@ msgstr "Cerere de resetare parola"
 #. Default: "(This link is valid for ${hours} hours)"
 #: CMFPlone/browser/login/templates/mail_password_template.pt:28
 msgid "mailtemplate_text_expirationdate_linkreset"
-msgstr "Aceasta cerere de resetare a parolei expira in"
+msgstr "Aceasta cerere de resetare a parolei expira in ${hours} ore"
 
 #. Default: "The following link will take you to a page where you can reset your password for ${site_name} site: ${reset_url}"
 #: CMFPlone/browser/login/templates/mail_password_template.pt:23
 msgid "mailtemplate_text_linkreset"
-msgstr "O cerere de resetare a parolei contului dumneavoastra de membru in cadrul &dtml-title a fost realizata. Pentru a continua procedura va rugam accesati aceasta adresa"
+msgstr "O cerere de resetare a parolei contului dumneavoastra de membru in cadrul ${site_name} a fost realizata. Pentru a continua procedura va rugam accesati aceasta adresa: ${reset_url}"
 
 #. Default: "If you didn't expect to receive this email, please ignore it. Your password has not been changed. Request made from IP address ${ipaddress}"
 #: CMFPlone/browser/login/templates/mail_password_template.pt:36
