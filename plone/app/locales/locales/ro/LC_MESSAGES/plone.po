@@ -9993,7 +9993,7 @@ msgstr ""
 #. Default: "Used in item listings and search results."
 #: plone.app.dexterity/plone/app/dexterity/behaviors/metadata.py:78
 msgid "help_description"
-msgstr "Descriere anuntului este foarte importanta si trebuie sa contina cel putin 80 de caractere. Scrie clar si adaugă cât mai multe detalii."
+msgstr "Descriere anuntului este la fel de importanta si trebuie sa contina cel putin 80 de caractere. Scrie clar si adaugă cât mai multe detalii. Astfel anuntul tau va fi gasit mult mai usor."
 
 #. Default: "Some discussion related settings are not located in the Discussion Control Panel.\nTo enable comments for a specific content type, go to the Types Control Panel of this type and choose \"Allow comments\".\nTo enable the moderation workflow for comments, go to the Types Control Panel, choose \"Comment\" and set workflow to \"Comment Review Workflow\"."
 #: plone.app.discussion/plone/app/discussion/browser/controlpanel.py:33
